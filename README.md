@@ -1,4 +1,4 @@
-👋 Hey there! I'm Punit Kumar, a Senior DevOps Engineer at [Techdome](https://techdome.io). Passionate about technology and driving innovation at the intersection of cloud and DevOps. CNCF member dedicated to pushing the boundaries of efficiency and scalability.
+👋 Hey there! I'm Punit Kumar, a Senior DevOps Engineer a. Passionate about technology and driving innovation at the intersection of cloud and DevOps. CNCF member dedicated to pushing the boundaries of efficiency and scalability.
 
 ### 💼 Current Projects:
 - 🚀 Spearheading the development of the next-gen open-source API client, [Sparrow](https://sparrowapp.dev)
