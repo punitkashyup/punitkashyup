@@ -3,9 +3,6 @@
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Punit+Kumar+%F0%9F%91%8B;Senior+DevOps+Engineer+%E2%98%81%EF%B8%8F;CNCF+Member+%F0%9F%9A%80;Cloud+%26+Infrastructure+Enthusiast" alt="Typing SVG" /></a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=punitkashyup&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -74,14 +71,6 @@ I'm a **Senior DevOps Engineer** passionate about technology and driving innovat
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=punitkashyup&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=punitkashyup&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
